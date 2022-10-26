@@ -1,11 +1,14 @@
-### Muhammed Yaseen Nivas
+# Muhammed Yaseen Nivas
 
-Welcome to my website! I am a high-school senior interested in olympiad biology, physics (and the math that comes with it). I like creating handouts on topics that I've learned.
+Welcome to my website! I am a high-school senior interested in olympiad biology, physics (and the math that comes with it). I like creating handouts on topics that I've learned. 
 
-### Handouts
+# Handouts
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Even though I'm better at biology, most of my handouts/notes are on physics/math because reading bio textbooks are much better (and efficient) than reading
+handouts in my opinion. Nevertheless, here are some of my works.
 
+## Math Club
+I run (along with a few other students) the school math club (named Euler's Etudiants). I've taken a couple lectures on extracurricular topics such as modular arithmetic, vieta's relations and the likes.
 ```markdown
 Syntax highlighted code block
 
